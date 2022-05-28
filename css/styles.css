@@ -1,9 +1,9 @@
 :root {
   --title-color: #212121;
-  --hero-title-color: #ffffff;
+  --hero-title-color: #fff;
   --text-color: #757575;
-  --text-color-secondary: #ffffff;
-  --primary-bcg-color: #ffffff;
+  --text-color-secondary: #fff;
+  --primary-bcg-color: #fff;
   --accent-color: #2196f3;
 }
 
@@ -46,7 +46,7 @@ body {
 }
 
 .logo-black {
-  color: #000000;
+  color: #000;
 }
 
 .nav-link {
@@ -197,7 +197,7 @@ body {
 /* -----------------FOOTER----------------- */
 
 .logo-white {
-  color: #ffffff;
+  color: #fff;
 }
 
 .footer {
