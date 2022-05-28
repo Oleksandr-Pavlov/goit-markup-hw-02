@@ -8,7 +8,7 @@
 }
 
 body {
-  font-family: 'roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: var(--title-color);
   background-color: var(--primary-bcg-color);
 }
